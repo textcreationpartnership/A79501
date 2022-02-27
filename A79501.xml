@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. John Child's book, entituled a second argument, for a more full and firm union amongst all good Protestants wherein the nonconformists taking the sacrament after the manner of the Church of England, is justified. The root and foundation of the Popish plot further discovered in a letter to a friend. Now republished upon the occasion of his disperation and fatal end: which book (as he hath often declared) was the occasion off [sic] it. Entred according to order.</title>
+            <author>Child, John, 1638?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79501</idno>
+            <idno type="STC">Wing C3849</idno>
+            <idno type="STC">ESTC R231293</idno>
+            <idno type="EEBO-CITATION">99899947</idno>
+            <idno type="PROQUEST">99899947</idno>
+            <idno type="VID">135205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2475:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. John Child's book, entituled a second argument, for a more full and firm union amongst all good Protestants wherein the nonconformists taking the sacrament after the manner of the Church of England, is justified. The root and foundation of the Popish plot further discovered in a letter to a friend. Now republished upon the occasion of his disperation and fatal end: which book (as he hath often declared) was the occasion off [sic] it. Entred according to order.</title>
+                  <author>Child, John, 1638?-1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. How, without Bishopsgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Sacraments --  Church of England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135205:1" rendition="simple:additions"/>
+            <p>M<hi rend="sup">R.</hi> JOHN CHILD'S BOOK, Entituled <hi>A SECOND ARG<g ref="char:V">Ʋ</g>MENT,</hi> For a more Full and Firm UNION AMONGST ALL GOOD PROTESTANTS; WHEREIN The NONCONFORMISTS Taking the SA<g ref="char:EOLhyphen"/>CRAMENT after the Manner of the CHURCH of <hi>ENGLAND,</hi> is Juſtified. The Root and Foundation Of the <hi>POPISH PLOT</hi> Further Diſcovered <hi>In a LETTER to a Friend.</hi> Now Republiſhed upon the Occaſion of his Diſperation and Fatal End: which Book (as he hath often declared) was the Occaſion off it.</p>
+            <p>
+               <hi>Entred According to Order.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. How,</hi> without <hi>Biſhopſgate,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:135205:2"/>
+            <head>M<hi rend="sup">R.</hi> JOHN CHILD'S BOOK, Entituled <hi>A SECOND ARG<g ref="char:V">Ʋ</g>MENT,</hi> &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>TIS not unknown to you that for Seven years laſt paſt it hath been our endeavour to correct ſome of the extravagant ſtrains too apparently found in many well-meaning Diſſenters from the Church of <hi>England;</hi> and what by good Argu<g ref="char:EOLhyphen"/>ments in private, and the Example of ſome who have had neer Thirty years Converſa<g ref="char:EOLhyphen"/>tion amongſt them; together with a ſight of their folly, by being debarr'd of their Ci<g ref="char:EOLhyphen"/>vil Rights as Engliſhmen, for their groundleſs Scrupuloſities in Religion and the cloſe concurrency of Penal Proſecution, they have at laſt been prevail'd upon to come to Church, and with Sobriety and Patience to hear the good and able Miniſters of the Church of <hi>England,</hi> to their no ſmall contentment and ſatisfaction: And ſo far we have gain'd the point, as to diſappoint our Adverſaries, whoſe Work it has been to divide, that they might take the ſpoil; and whoſe Deſign for a long time (as much as in them lay) hath been to put the Proteſtant Clergy upon Perſecuting, thereby to juſtifie their old accuſtomed Cruelty, and then prepoſſeſs the minds of the unwary, That this Prote<g ref="char:EOLhyphen"/>ſtant Church and Miniſtry was really Antichriſtian, and not ſafely to be communicated with or confided in; by which means they have for many years kept a wide gapp open, in hopes the more eaſily to get into Power; when there ſhould be an opportunity: for whilſt the Engliſh Church and Clergy does think all the Diſſenters Hereticks, miſled and alike dangerous, if not more than the Papiſts are, they make no bones in proſecuting Penal Laws againſt them, even to the utter ruin of Perſons and Families in many places. And on the other hand they influence and perſwade the poor ſimple Diſſenters that Per<g ref="char:EOLhyphen"/>ſecution is an infallible Mark of an Antichriſtian Church; and by ſcaring Cautions warn them upon the peril of forfeiting their ſalvation, not to come near them, not to touch, taſte, or handle with them: Nay ſo ſevere have theſe Sons of <hi>Leviathan</hi> been upon the Conſciences of the Nonconformiſts, as to corrupt them with a Conceit, That it is a ſin to go into the Places where the Engliſh Clergy Preach, becauſe they are Idol Temples; a greater Sin to hear them preach and pray there, becauſe 'tis as Meat offered to an Idol: but like the Sin againſt the Holy Ghoſt, eternally impardonable, to communicate with them in the Lords Supper. When in truth there is amongſt them all things neceſſary to ſalvation; of which I could never yet learn more than theſe Four, <hi>viz.</hi>
+            </p>
+            <p n="1">1. The Learning of a good Catechiſm to aid and conduct their Faith.</p>
+            <p n="2">2. A good and well compoſed Form of Prayer to diſcharge their Devotion.</p>
+            <p n="3">3. To hear learned and good Men Preach to revive and quicken them to Duty.</p>
+            <p n="4">4. To Square and Regulate their Lives by Moral Precepts (or the Law of Nature) the which whoſoever ſhall humbly and carefully obſerve, conſtantly and conſcientiouſly perform, we will aſſure them Salvation, and undertake to anſwer to God for them, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:135205:2"/>be content to ſtand Chargeable with their Blood if they do miſcarry; being undiſpute<g ref="char:EOLhyphen"/>ably aſſured that it is more ſafe to rely upon theſe Principles for Salvation than upon all humane Pardons and Indulgences under Heaven: becauſe theſe things do really conſti<g ref="char:EOLhyphen"/>tute a good Man, which God for his <hi>Truth and Juſtice ſake</hi> cannot deſtroy or damn: <hi>Therefore that we</hi> may anſwer the <hi>Command of God to his Prophet</hi> to take the <hi>ſtumbling blocks out of the way of the People,</hi> and thereby diſappoint the wicked purpoſes of ungodly men, ſave our poor Neighbours and their Families from ruin by Penal Laws and Erro<g ref="char:EOLhyphen"/>nious Conſciences, and a Glorious Nation from deſtruction by ſubtile. Adverſaries; we ſhall endeavour to evince that they ſafely may communicate in the Lords Supper with their Brethren of the Church of <hi>England:</hi> In order to which it is propoſed.</p>
+            <p n="1">1. To Communicate in the Supper is either a Civil or a Spiritual Thing, for betwixt theſe there is no Medium: If Civil, as ſuch it may be done, becauſe no where forbidden by God.</p>
+            <p n="2">2. 'Tis Commanded by the Laws of our Countrey.</p>
+            <p n="3">3. 'Tis no natural injury to a mans Neighbour, therefore can be no real hurt or pre<g ref="char:EOLhyphen"/>judice to his own Soul; for what God forbids not, the Laws of my Countrey commands to be done, and my Neighbour no way injured by, cannot be really hurtful to my ſelf; there being no Law of common good and ſafety violated, no Right either Humane or Divine invaded; and for Obedience to the Laws of our Countrey, in all matters purely Civil we are all agreed about. If it be Spiritual, then it is Spiritual Goodneſs or Spiritual Wickedneſs, there being no Medium betwixt theſe two (neither:) If <hi>Spiritual Goodneſs, it cannot be</hi> dangerous and unſafe, becauſe we have a Word of God that <hi>preſſes to what<g ref="char:EOLhyphen"/>ſoever is good, honeſt,</hi> and <hi>excellent:</hi> Beſides, the Law of Nature obliges to all degrees of Goodneſs within our power to perform. If it be Spiritual Wickedneſs, then it lies either in the Matter made uſe of, or in the Manner of the Adminiſtration: in the Exceſs and Defect of the Matter, or in the Deſign of the Thing; but Wickedneſs lies in none of theſe, therefore it is not Spiritual wickedneſs.</p>
+            <p n="1">1. In the matter <hi>(viz.)</hi> The Bread and the Wine, it cannot lie, becauſe both are in<g ref="char:EOLhyphen"/>nocent and harmleſs, and fitly agreeing to Divine Inſtitution. In the manner of Admi<g ref="char:EOLhyphen"/>niſtration it cannot lie, becauſe it is ſolemnly perform'd with holy Prayers and Thankſ<g ref="char:EOLhyphen"/>giving, and with no ſmall degree of Seriouſneſs and Gravity. It cannot lie either in Ex<g ref="char:EOLhyphen"/>ceſs or Defect, becauſe none is allow'd rudely to take it themſelves, to eat unto Glutto<g ref="char:EOLhyphen"/>ny, or drink unto Drunkenneſs. In the Defect it cannot lie, becauſe given in both Kinds, and not more ſpareingly than the nature of the thing requires, and is in common uſe amongſt others. In the Deſign it cannot poſſible be, becauſe all that is propoſed in it, is a due Preparation for it, and a Thankful Remembrance of the Bleſſed Sacrifice of a Dear Redeemer. And if no Evil in any of theſe, we challenge the whole World to ſhew any Formal or Poſitive Wickedneſs.</p>
+            <p n="2">2. If it be Spiritual Wickedneſs, then the higheſt Acts or Inſtances of the Church of <hi>Englands</hi> Goodneſs (which is the preparing Perſons for a Right Receiving of it, the En<g ref="char:EOLhyphen"/>deavours to ſtrengthen Mens Faith thereby, and to increaſe and continue Brotherly Love, is Poſitive Wickedneſs; And if ſo, what will become of all that have died in this Com<g ref="char:EOLhyphen"/>munion? And what condition are all thoſe in that are left behind (in this Communion?) Surely if the higheſt Acts of Goodneſs in the beſt Church Men is down right Spiritual Wickedneſs, then the beſt Church men muſt be all wicked men; for if the Light that is in them be Darkneſs, how great is their Darkneſs! If I miſtake not, ſuch a Dogmatical
+<pb n="4" facs="tcp:135205:3"/>Concluſion is the higheſt Violation of Chriſtian Charity under Heaven: And whatſoever men pretend, as to Talk and Faith, and the like, they do render themſelves by the want of Charity to be but ſounding Braſs and tinkling Cimbals, offering manifeſt violence to that Sacred Text, <hi>Judge not, leaſt you be judged.</hi> And how ſuch can be aſſured of eſcap<g ref="char:EOLhyphen"/>ing that diſmal Sentence, <hi>What meaſure you mete to others, the ſame ſhall be meted to you again:</hi> I yet underſtand not.</p>
+            <p n="3">3. That part of this Kingdom that bears the Denomination of the Church of <hi>England,</hi> is either the Church of God, or it is the Synagogue of the Devil? If the Church of God, it cannot be hazardous and unſafe to Communicate with it in the Sacrament of the Lords Supper; becauſe it is an holy Rite truly appropriated to the Church of God: And to joyn with the Church of God in one of the higheſt inſtances of Poſitive Religion, cannot poſſible be dangerous and unſafe. But if it be indeed the Synagogue of the Devil, and the Communicating with it Poſitive Wickedneſs, let it be demonſtratively made appear, and we will reſolve (by Gods grace aſſiſting us) to be hanged upon Gibbets, to be burned at a Stake, to ſuffer the worſt of Deaths and Dangers, rather than to Incorporate our ſelves into ſuch a Diabolical Corporation. But if this be not, or cannot be done, he that ſuffers ruin and death for a refuſal, may go out of the World with a lie in his right hand, and die under a far worſe Sentance or Cenſure then did <hi>Abner,</hi> and miſs his ex<g ref="char:EOLhyphen"/>pected Advancement for it in the next World,</p>
+            <p n="4">4. He that ſhall Communicate with the good Members of the Church of <hi>England,</hi> ſhall certainly Communicate with as good Men as any is under the Copes of Heaven: For if we refer to the Clergy, then for Excellency of Natural Parts, Profoundneſs of Learning, Evenneſs of Temper, Generoſity of Principles, moſt admirable Sermons and Doctrines, holineſs of Life and largeneſs of Charity, we challenge the whole Earth to overmatch them. Indeed ſuch is the <hi>Engliſh</hi> Clergy at this day, that I deſpare to ſee any out-do them till <hi>Elias</hi> comes with Extraordinary Revelation to reſtore all things; and if it be damna<g ref="char:EOLhyphen"/>ble to Communicate with ſuch men (Good God) then what ſhall we do? Whether ſhall we fly for help? Where ſhall we pitch our Tents, and where ſhall we fix our Glory? Oh! how ſhall we be able to rejoyce in being debarr'd of our National Priviledges, the having our Eſtates loſt, our Families ruin'd, our Native Countrey expos'd to great haz<g ref="char:EOLhyphen"/>ard by Popery, our Wives and Children weeping, our Perſons baniſh'd and expoſed to the mercy of ſtrange Countreys, or hang'd at home for an obſtinate humour, in refuſing to eat and drink in a godly ſort with ſome of the beſt of Men. What Judgment will the Martyrs that died in Queen <hi>Mary</hi>'s days make of us? Can they account us Martyrs with<g ref="char:EOLhyphen"/>out condemning themſelves, who all died in the ſame Faith and Practice that we are invi<g ref="char:EOLhyphen"/>ted to imbrace?</p>
+            <p n="5">5. If it be dangerous and unſafe to Communicate with the <hi>Engliſh</hi> Church, it muſt be becauſe ſhe is no Church at all, or at beſt but an Antichriſtian Church. An Antichriſtian Church ſhe cannot be, becauſe ſhe hath renounced the Power and Headſhip of Antichriſt, and in her conſtant Doctrines and Practice keeps up and defends a Seperation and Deteſt<g ref="char:EOLhyphen"/>ation of him. If ſhe be no Church at all, then theſe two dangerous Conſequents will follow:</p>
+            <p n="1">1. That the beſt People in the World, who profeſs the True God and the True Savi<g ref="char:EOLhyphen"/>our, the True Rule, <hi>viz.</hi> The Holy Scripture, the Two Sacraments, at leaſt in the Name and Order of them; and who hath made an Agreement to own, defend, and ſtand by all the
+<pb n="5" facs="tcp:135205:3"/>Neceſſary Articles of the <hi>Christian</hi> Faith (which is the only Foundation of the True Church) I ſay then ſuch a People, that hath all the Neceſſaries and Eſſentials of a True Church, and yet is no Church at all (how Phanatical this is) let all Wiſe men judge? But,</p>
+            <p n="2">2. As ſuch a Sentiment muſt needs be a Contradiction to ſuch a Suppoſition; ſo it con<g ref="char:EOLhyphen"/>cludes that there is no Church at all: For if a People under ſuch Qualifications be no Church, then there can be no ſuch thing as a True Church in the World. For the Secta<g ref="char:EOLhyphen"/>ries cannot be a True Church, becauſe either they have made no Solemn Covenant with God and one with another, which is the onely right Baſis and Foundation of a Church State, or if they have, it cannot be better than that already ſet forth: And then the ſame cauſe iſſuſes in the ſame Effect. And that the Sectaries are the True Church of God and no other, I cannot yet be well ſatisfied; becauſe the greateſt number of them do hold Principles dangerouſly Heretical and moſt abominably Abuſive of the moſt Holy and Bleſ<g ref="char:EOLhyphen"/>ſed God: Such as indeed do no leſs in their direct Conſequences than un-god Him, by making of him the greateſt Author of Miſchief in the World, and the Tranſactor of ſuch profound Folly, that was never yet found in any weak and ſilly Mortal under Hea<g ref="char:EOLhyphen"/>ven: And all this by their idle Dreams about his Peremptory and Eternal Decrees. For if, as they hold, God hath ſo limited his Power and bound up his own Hands (by unal<g ref="char:EOLhyphen"/>terable Decrees) as that he has left himſelf no Liberty to advance the moſt Excellent and Vertuous, nor to degrade the moſt Profligate and Vile, what greater Folly can be found amongſt Mortal Men? If thoſe they call the Elect ſhall deny his Being, blaſpheme him to his Face, confront his Soveraignity, wreſt the Scepter from him, trample upon his Holy Name and Glory, laugh at the indignities and contempt caſt upon his moſt Sa<g ref="char:EOLhyphen"/>cred Image, yet they are as ſure to be ſaved, as Heaven is to abide: And as firmly faſt<g ref="char:EOLhyphen"/>ened to the higheſt Station in Glory (to which they were deſign'd) as are the chiefeſt order of Angles. And if any of the other part, <hi>viz.</hi> the not Elect, ſhall plead for God, vindicate his Name, defend his Soveraignity, and maintain his Honour to the laſt end of their Life and Power, yet to the Regions of Darkneſs they muſt go, to bear <hi>Beelzebub</hi> and his Black Tribe company, to take their ever to be lamented and diſmal Lot; with <hi>Cain</hi> and <hi>Judas;</hi> becauſe God has left himſelf no power or liberty to reward them for their good Service.</p>
+            <p>Oh excellent and ſtupendious Folly! did ever Traveller to the utmoſt Mountains meet with the like in the Ruler of any People. Neither is this all, but indeed the leaſt part of what they impute to the beſt of Beings. For he is the greateſt, nay the ſole Author of all the Miſchiefs in the World. Did <hi>Beelzebub</hi> tranſgreſs in Heaven? Did <hi>Adam</hi> fall in Paradice? Did <hi>Cain</hi> kill <hi>Abel? Simeon</hi> and <hi>Levi</hi> murther the Men of <hi>Sechim?</hi> Did <hi>Da<g ref="char:EOLhyphen"/>vid</hi> commit Adultery, and treacherouſly murther <hi>
+                  <g ref="char:V">Ʋ</g>riah?</hi>
+'Twas the inevitable Fate of the Divine Decrees God ordained <hi>Judas</hi> to betray <hi>Jeſus,</hi> the <hi>Jews</hi> by wicked hands to ſlay him, <hi>Solomon</hi> to have a Thouſand Whores, all the Roman Emperors and Popes to make Bloody Shambles of the Chriſtian World by Barbarous Butcheries; that when Men are Drunk, Lie, Swear, Blaſpheme, challenge God to damn them; when they Rob, Steal, Shed Blood, are ſent to <hi>Newgate</hi> and <hi>Tyborn</hi> for Felonies, poor miſerable Wretches they could no ways help it; an Irreſiſtible Deſtiny was the cauſe of it: And yet that they ſhould be hang'd here, and damn'd hereafter, for doing of it, altho by the ſame God forbidden, and commanded to the contrary with the greateſt Threats and Seriouſneſs:
+<pb n="6" facs="tcp:135205:4"/>If there can be ſuch a profound Diſſembler, ſuch a deceitful Worker, ſuch an horrible Contriver, ſuch an evil Ordainer, and miſchievous Author, that is not a great and mighty Devil, I will confeſs my ſelf miſtaken. Now if a ſound and true Notion of God, be the firſt and foundation Principle of Religion, and conſequently of a True Church, then ſuce as have it not; but the manifeſt and direct contrary, can be no True Church, becauſe upon a wicked and falſe Foundation. Such I am ſure there are among the Secta<g ref="char:EOLhyphen"/>ries, and if ſuch a Villainous Body of People is the beſt and the true Church, that even in their firſt and main Principle thus bloodily murther their Maker in his moſt admirable Attributes of Wiſdom, Holineſs, and Goodneſs; I do wonder in my mind what kind of people the World is. If <hi>Jacob</hi> ſaid of the little Murther his Sons committed upon Men, <hi>Curſed be their Anger for it was fierce; and their Wrath, for it was cruel: O my Soul, come not thou into their ſecret, unto their aſſembly, mine honour, be not thou united;</hi> to them: what ſhall we ſay of ſuch Monſters that murther God their Maker? Shall we joyn with them as a Pious Church?</p>
+            <p>But to put the Matter further out of Doubt, if it can be, that the Sectaries cannot be a Church in the beſt ſenſe, becauſe they are ſo giddy and fooliſh, as that they want Wit and Policy for Church Government, and ſo penurious and covetous, that they will not allow what is requiſite to the keeping up of a Church State: And can any man imagine that ever the moſt Wiſe and Good God would truſt a Church State in the hands of ſuch Men?</p>
+            <p>For their Wit and Policy, take a ſhort Specimen of it.</p>
+            <p n="1">1. Would they have our Arch-biſhops down? Yes no doubt.</p>
+            <p n="2">2. Would they have the reſt of the Biſhops down? Yes.</p>
+            <p n="3">3. Would they have the beſt Clergy about the City and Suburbs of <hi>London</hi> down? Yes.</p>
+            <p n="4">4. Would they have all the Clergy of <hi>England</hi> down? Yes.</p>
+            <p n="5">5. Would they have all the Eccleſiaſtical Revenues <hi>(viz.)</hi> the unlawful Maintenance by Tythes down? Yes.</p>
+            <p n="6">6. Would they have all the Schools of Learning in both Univerſities down? Yes. Be<g ref="char:EOLhyphen"/>cauſe the Language of the Beaſt, that oppoſes the Spirits Teaching (ſet forth by <hi>Samuel How</hi>) comes from thence.</p>
+            <p n="7">7. Would they have the Laws that do force the Covetous to pay Pariſh Levies for the Maintenance of the poor down? Yes. Becauſe no Rule for it in Scripture.</p>
+            <p>Very well, then, raſe <hi>Babylon</hi> by the very Foundations.</p>
+            <p>But hearken Brethren, Here is a very large empty ſpace, and ſeeing Nature abhors a Vacuity, what ſhall we leave nothing to fill up again? Muſt all the People and Pariſhes of <hi>England</hi> be totally left without Preachers? Oh! No by no means. How then, good now? Why they muſt all have recourſe to us, and we muſt ſupply them. That is it, Sir, That the Sectaries do aime at, to have all the People come to them (and that is the mean<g ref="char:EOLhyphen"/>ing of ſo many new publick places being erected) and then for a filling up this large emp<g ref="char:EOLhyphen"/>ty ſpace.</p>
+            <p n="1">1. You ſhall in the room of the two Archbiſhops, <hi>viz. Canterbury</hi> and <hi>York,</hi> have a <hi>Tinker</hi> and a <hi>Taylor,</hi> men of great confidence and long ſtanding.</p>
+            <p n="2">2. For the Four great Biſhopricks of <hi>London, Wincheſter, Ely,</hi> and <hi>Durham,</hi> you ſhall have a Waterman, a Shoemaker, a Coffee-man, and a Hat-Dreſſer.</p>
+            <p n="3">3. For the other Biſhops, and the Clergy about the City and Suburbs of <hi>London,</hi> you ſhall have Men of an inferiour Rank to theſe in point of Learning and Ability, and Suppliments for all the reſt ſuitable hereunto againſt the next Debate. In the mean while
+<pb n="7" facs="tcp:135205:4"/>will it be amiſs to ſend to <hi>France, Germany,</hi> and the <hi>Low Countreys,</hi> to acquaint them with what an honourable Reformation in <hi>England</hi> is deſired and purſued by a great ma<g ref="char:EOLhyphen"/>ny. But having thus diſcours'd a little about their Wit, we come now to their Covet<g ref="char:EOLhyphen"/>ouſneſs, which is inconſiſtent with a Church State, and the good Government thereof; which take in Three Inſtances.</p>
+            <p n="1">1. For Forty years laſt paſt they have made no Bank, built no Free Schools, purchaſed no Church Lands, not ſo much as will be ſufficient to ſupport their own Party.</p>
+            <p n="2">2. They have lived in the total neglect of that great Moral Duty of paying to God the Tenths of their Increaſe; which the Patriarchs before the Law made ſo much Conſcience of: and the detaining of which God accounts the higheſt Act of Robbery, even no leſs than a Robbing of God himſelf: <hi>Mal.</hi> 3.8, 9.</p>
+            <p n="3">3. For the Rich and Trading part of them, before they will conſent to have all things common, as the Chriſtians in the Primitive Times had (as well as Water Baptiſm and laying on of Hands) they will ſee the poor ſuffer, and their Preaches go a Begging; as I have known <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers of them has done.</p>
+            <p>Now Sir, This people neglecting to make proviſion for them of their own Houſhold, and thereby denying the Faith, and become worſe than Infidels, as they are not to be truſted with the Government of a National Church, ſo they cannot be a Right and True Church themſelves in the beſt Senſe. And if neither theſe nor the Church of <hi>England</hi> be the True Church, then the Church of <hi>Rome</hi> muſt, or elſe where ſhall we find it? Tho Sir I do love the People of the <hi>Romiſh</hi>-Communion well, yet am very loth it ſhould be accounted the True and Right Church, and come into Eſteem amongſt us under that No<g ref="char:EOLhyphen"/>tion; becauſe it may be inconvenient upon divers Accounts.</p>
+            <p n="1">1. We ſhall then be in danger of having a <hi>Popiſh</hi> Parliament, which will be always troubling and tempting our Kings to let in <hi>Popery;</hi> which will be a Violation of the Sa<g ref="char:EOLhyphen"/>cred Oath and high Impeachment of their Integrity and Honour (and then our <hi>Engliſh</hi> Church will be new modell'd, all our beſt Miniſters turn'd out of the beſt Benefices, which muſt be reſigned up to a Herd of <hi>Pharaoh</hi>'s lean Kine, that will come flocking in like the Armies of Flies and Froggs upon the Land of <hi>Egypt.</hi> Our good Book of Com<g ref="char:EOLhyphen"/>mon Prayer will be changed, then which I think few or none can make a better. The Writ <hi>Haeretico Comburendo</hi> will be reſtored again to its former force, and thereby the beſt Defenders of our Religion againſt Popery be forced to pledge <hi>Philpot</hi> and <hi>Cranmer, Ridley</hi> and <hi>Latimer,</hi> in a warm Cup of <hi>Smithfield</hi> Flames. All our Married Clergy muſt be reputed Fornicators, their Wives accounted Whores, and their Children Baſtards, to the exceeding great grief and ſorrow of their Aged Parents on both ſides, who care<g ref="char:EOLhyphen"/>fully plac'd their Sons out to Learning on the one hand, that thereby they might come to honour: and moſt tenderly brought up their Daughters like Ladies on the other hand; gave good portions with them, and thought them preferr'd when matched to the ſettled Clergy: not dreaming of a perpetual Reproach and Infamy upon their poſterity, <hi>&amp;c.</hi> All our Nobles and Gentry will loſe a great part of their Eſtates, which was formerly Church Lands, and ſtill laid claim to by the <hi>Roman</hi> Church, to the leſſening of their Re<g ref="char:EOLhyphen"/>venue, impairing their Honour, and provocation to their Off-ſpring. The People will be generally filled with diſcontent, who are ſtrangely poſſeſt with a diſlike and fear of <hi>Popery. London</hi> will much abate in his Trade and Grandeur. All Proteſtant Merchants will be put to flight into other Countreys to ſave their own and the lives of their dear be<g ref="char:EOLhyphen"/>loved
+<pb n="8" facs="tcp:135205:5"/>Ladies, whom they value above themſelves. The whole Land from <hi>Dan</hi> to <hi>Beer<g ref="char:EOLhyphen"/>ſheba</hi> will be inſlaved ſo inſufferably by an ignorant and unclean Brood, that there will be a neceſſity to keep up a ſtanding Army to awe the People into a quiet Subjection: And this kind of Red-Coat Slavery the Nation of <hi>England</hi> never approv'd. Beſides many do fear, if <hi>Popery</hi> comes in, there will yet be many more places ſet on fire, to the prejudice of the whole Kingdom. We ſhould now have come to the little Objections made by the Sectaries againſt taking the Sacrament with the <hi>Engliſh</hi> Church, as that there are ill Mem<g ref="char:EOLhyphen"/>bers in it, and they injoyn'd to take it Kneeling, and the like: But a further progreſs in a way of Anſwer, ſhall be deferr'd to a New Command from you. And dear Sir, after giving you Toleration to expoſe the firſt Argument relating to this Deſign, if you think it may be ſerviceable to the publick, I admit your mind to a pleaſant Receſs, and reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your very humble and moſt obliged Servant,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTCRIPT.</head>
+            <p>SInce the Printing and Publiſhing of this Book at firſt by the Author, he fiill'd up the place of a Zealous and Strict Conformiſt, till within three Months laſt paſt he appear<g ref="char:EOLhyphen"/>ed Extraordinary dejected and diſcompoſed: And to many that came to viſit him, he Ex<g ref="char:EOLhyphen"/>preſſed himſelf as a Perſon under dreadful Agonies and Horror in his Conſcience; parti<g ref="char:EOLhyphen"/>cularly acknowledging the juſt Hand of God to be upon him for Scandalizing and Miſrepreſenting the Perſons and Principles (as he call'd them) of Thouſands and te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thouſands good and juſt Men: By this Book. He was ſometimes very free to Diſcourſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe that came to viſit him; greatly bewailing his Lamentable Condition; but he hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been more reſerved for a Month laſt paſt: And in the height of Deſperation Hanged him<g ref="char:EOLhyphen"/>ſelf with his own Girdle faſtned to a wooden Pin in the Wall on the Seller-ſtairs in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own Houſe, on Munday the 13th of <hi>October,</hi> about five a Clock in the Afternoon<g ref="char:punc">▪</g> Leaving behind him a Diſconſolate Widow and four ſmall Children.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THE Reader is deſired to take Notice that there is now preparing for the Preſs, a Account of the Life and Death of the ſaid <hi>John Child:</hi> Containing a faithfull Ac<g ref="char:EOLhyphen"/>count of all the Remarkable paſſages during his Deſperation: Printed and Publiſhed by the publiſher of this Paper.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
